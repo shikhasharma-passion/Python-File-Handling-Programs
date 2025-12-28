@@ -1,2 +1,18 @@
-# Python-File-Handling-Programs
-A beginner-friendly collection of Python programs demonstrating file handling concepts such as read, write, append, writelines, readline, and using the with statement.
+# Python File Handling Programs
+
+This repository contains basic Python programs related to file handling.
+
+## Topics Covered
+- File opening and closing
+- Reading file content
+- Writing data to files
+- Appending data
+- writelines() method
+- readline() and multiple line reading
+- Using with statement
+
+## Purpose
+These programs were created for learning and practice purposes.
+
+## Language Used
+- Python
